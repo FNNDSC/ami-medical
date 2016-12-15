@@ -1,0 +1,20 @@
+
+{
+  "name": "ami-medical",
+  "homepage": "https://github.com/fnndsc/ami-medical",
+  "authors": [
+    FNNDSC Dev
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ami-viewer": "fnndsc/ami-viewer",
+    "ami-loader": "fnndsc/ami-loader",
+    "ami-import": "NicolasRannou/ami-import",
+    "three-import": "NicolasRannou/three-import"
+  }
+}
