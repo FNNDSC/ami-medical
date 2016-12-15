@@ -11,8 +11,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ami-viewer": "fnndsc/ami-viewer",
-    "ami-loader": "fnndsc/ami-loader",
+    "ami-viewer": "FNNDSC/ami-viewer",
+    "ami-loader": "FNNDSC/ami-loader",
     "ami-import": "NicolasRannou/ami-import",
     "three-import": "NicolasRannou/three-import"
   }
